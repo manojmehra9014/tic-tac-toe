@@ -77,13 +77,16 @@ nav>h1 {
 
 #turn1 {
     color: yellow;
+    font-size: 3rem;
+
 }
 
 #reset {
-    width: 90px;
-    height: 40px;
+    width: 120px;
+    height: 50px;
     border: none;
     margin: 1%;
+    font-size: 1rem;
     cursor: pointer;
     background-color: #1e3dc9;
     border-radius: 10px;
@@ -96,3 +99,5 @@ nav>h1 {
 #reset:hover {
     background-color: #2e50e900;
 }
+
+
